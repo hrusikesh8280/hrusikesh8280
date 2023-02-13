@@ -22,7 +22,7 @@
 <a href="https://hrusikesh8280.github.io/">
 <img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/hrisikeah8280">
+<a href="https://twitter.com/hrisikesh8280">
 <img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/hrusikesh-ghadei-49371621a/">
@@ -65,42 +65,16 @@
 </br>
 
 
-<div align="center"> 
-<a href="mailto:hrusikeshviroot@gmail.com">
-<img src="https://img.shields.io/badge/-Email Me-aa593e?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
-</a>
-<a href="https://hrusikesh8280.github.io/">
-<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/hrisikeah8280">
-<img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hrusikesh-ghadei-49371621a/">
-<img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
-</div>
-
 <br>
 
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://twitter.com/hrisikesh8280" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101673372/168450686-16e5bea3-6a8f-4673-873b-a407dcb828e2.png" alt="kay_michelexo" height="96" width="96" /></a>
+<a href="[https://linkedin.com/in/kaleen moon](https://www.linkedin.com/in/hrusikesh-ghadei-49371621a/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101673372/168450759-f89e60e4-0ccf-46fd-9015-1260c51a26ec.png" alt="kaleen moon" height="96" width="96" /></a>
+  <a href="mailto:hrusikeshviroot@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101673372/168451716-ac2b5619-6e3f-42c3-82cd-d678250ca495.png" alt="kaleen moon" height="86" width="86" /></a>
+ </p>
 
-<!--
-**hrusikesh8280/hrusikesh8280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrusikesh8280&label=Profile%20views&color=0e75b6&style=flat" alt="hrusikesh8280" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrusikesh8280&show_icons=true&locale=en&layout=compact" alt="wisamosman" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrusikesh8280&show_icons=true&locale=en" alt="meenakshiar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrusikesh8280&" alt="meenakshiar" /></p>
+<br>
 
 
