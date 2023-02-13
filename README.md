@@ -15,6 +15,21 @@
 
 <br>
 
+<div align="center"> 
+<a href="mailto:hrusikeshviroot@gmail.com">
+<img src="https://img.shields.io/badge/-Email Me-aa593e?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
+</a>
+<a href="https://hrusikesh8280.github.io/">
+<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/hrisikeah8280">
+<img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/hrusikesh-ghadei-49371621a/">
+<img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
  <table>
@@ -65,7 +80,7 @@
 </a>  
 </div>
 
-</br>
+<br>
 
 
 <!--
