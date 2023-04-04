@@ -1,7 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/86557158/218552983-da0b173d-13fb-45de-82e5-c101a890ca38.jpg)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=AC41DCF3&vCenter=true&width=435&lines=Web+solutions+with+MERN+magic;Empowering+the+web+with+MERN;Turning+ideas+into+web+reality"/>
-  </p>
+
  <h2 align="center">Hi 👋 This is Hrusikesh, a full stack software engineer on MERN </h2>
  <p align="center">I'm currently learning and building with NodeJS, Express and MongoDB at masai school. Feel free to stay awhile and browse through my latest projects. Don't hesitate to reach out if you would like to hire me or collaborate on anything related to web development.</p>
   
